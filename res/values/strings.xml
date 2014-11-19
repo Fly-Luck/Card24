@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- app name -->
+    <string name="app_name">Card24</string>
+    
+	<!-- activities' name -->
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_credit">CreditActivity</string>
+    
+	<!-- button texts in main page -->
+    <string name="str_desc">Default Content Description</string>
+    <string name="str_newgame">New Game</string>
+	<string name="str_credit">Credit</string>
+    <string name="str_quit">Quit</string>
+    <string name="str_name">by Liu Junjie</string>
+    <string name="str_id">UID:3035149788</string>
+    
+	<!-- button texts in credit page -->
+    <string name="str_author">Author: Liu Junjie\nUID.3035149788</string>
+    <string name="str_contact">hsdsmljj@hku.hk</string>
+    <string name="str_version">Card Game v1.0.0</string>
+    
+    <!-- button & text view texts in game page -->
+    <string name="str_win">Win: 0</string>
+    <string name="str_lose">Lose: 0</string>
+    <string name="str_total">Total: 0</string>  
+    <string name="str_clear">clear</string>
+    <string name="str_backspace">backspace</string>
+    <string name="str_restart">restart</string>
+    <string name="str_test">test</string>
+</resources>
